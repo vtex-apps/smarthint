@@ -1,4 +1,4 @@
-# smart-hint
+# smarthint
 
 VTEX SmartHint first-party app
 
