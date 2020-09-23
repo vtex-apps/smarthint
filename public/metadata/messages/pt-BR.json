@@ -1,0 +1,17 @@
+{
+  "name": "SmartHint",
+  "headline": "Eleve a experiência de compra da sua loja virtual utilizando Inteligência Artificial.",
+  "overview": "Conecte-se aos serviços da SmartHint e eleve a experiência de compra da sua loja virtual usando Inteligência Artificial para aumentar o número de conversões.",
+  "features": [
+    "Adapte os produtos das vitrines de acordo com o perfil de cada usuário",
+    "Gere urgência com pop-ups nas páginas de produto e no abandono da compra",
+    "Diminua a necessidade da personalização manual das vitrines",
+    "Aumente a relevância dos produtos mostrados na página inicial do site",
+    "Acompanhe os resultados em tempo real"
+  ],
+  "additionalInformation": "Para informações sobre os planos disponíveis, acesse: https://www.smarthint.co/",
+  "websiteURL": "https://vtex.com/",
+  "support": {
+    "url": "https://support.vtex.com/hc/requests"
+  }
+}

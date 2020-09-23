@@ -1,7 +1,7 @@
 {
   "name": "smarthint",
   "vendor": "vtex",
-  "version": "0.0.5",
+  "version": "1.0.0",
   "description": "Smarthint App",
   "builders": {
     "pixel": "0.x",
@@ -18,6 +18,17 @@
         "type": "string"
       }
     }
+  },
+  "billingOptions": {
+    "termsURL": "https://compliance.vtex.com/gdpr/policies/vtex-privacy-policy",
+    "support": {
+      "url": "https://support.vtex.com/hc/requests"
+    },
+    "free": true,
+    "type": "free",
+    "availableCountries": [
+      "*"
+    ]
   },
   "dependencies": {
     "vtex.pixel-interfaces": "1.x"

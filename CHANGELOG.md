@@ -7,6 +7,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.0] - 2020-09-23
+
+### Added
+
+- App Store Assets.
+
+### Fixed
+
+- BillingOptions.
+
 ## [0.0.5] - 2019-12-27
 ### Fixed
 - Use Docs builder.
