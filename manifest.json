@@ -1,7 +1,7 @@
 {
   "name": "smarthint",
   "vendor": "vtex",
-  "version": "0.0.5",
+  "version": "1.0.0",
   "description": "Smarthint App",
   "builders": {
     "pixel": "0.x",
@@ -26,7 +26,9 @@
     },
     "free": true,
     "type": "free",
-    "availableCountries": ["*"]
+    "availableCountries": [
+      "*"
+    ]
   },
   "dependencies": {
     "vtex.pixel-interfaces": "1.x"
