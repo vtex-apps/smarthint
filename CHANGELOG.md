@@ -7,6 +7,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Fixed
+- New terms of use
+
 ## [0.0.5] - 2019-12-27
 ### Fixed
 - Use Docs builder.
